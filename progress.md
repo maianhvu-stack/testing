@@ -10,3 +10,4 @@ step 9 on 2026-10-11
 step 10 on 2026-10-12
 step 11 on 2026-10-13
 step 12 on 2026-10-13
+step 13 on 2026-10-14 (auto-sync check)
